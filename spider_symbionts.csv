@@ -1,0 +1,774 @@
+﻿species,family,Symbiont,incidence,method,n,ref,populations,comment
+Pityohyphantes phrygianus,Linyphiidae,Wolbachia,0.92,Directed PCR,36,(Gunnarsson Goodacre and Hewitt 2009),3 Sweden(3),NA
+Pityohyphantes phrygianus,Linyphiidae,Rickettsia,0.08,Directed PCR,36,(Gunnarsson Goodacre and Hewitt 2009),3 Sweden(3),NA
+Erigone atra,Linyphiidae,Rickettsia,0.67,Directed PCR,772,(Goodacre et al. 2009),25  England(25),NA
+Erigone atra,Linyphiidae,Wolbachia,0.05,Directed PCR,796,(Goodacre et al. 2009),25  England(25),NA
+Mermessus fradeorum,Linyphiidae,Rickettsia,0.43,Directed PCR,44,(Curry et al. 2015),1 Kentucky,NA
+Mermessus fradeorum,Linyphiidae,Wolbachia,0.32,Directed PCR,44,(Curry et al. 2015),1 Kentucky,NA
+Amaurobius fenestralis,Amaurobiidae,Wolbachia,0,Directed PCR,16,(Duron et al. 2008),1 France,NA
+Amaurobius fenestralis,Amaurobiidae,Cardinium,0,Directed PCR,16,(Duron et al. 2008),1 France,NA
+Agelenopsis aperta,Araneidae,Wolbachia,0,Directed PCR,20,(Duron et al. 2008),﻿1 Tennessee,NA
+Agelenopsis aperta,Araneidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),﻿1 Tennessee,NA
+Araneus diadematus,Araneidae,Wolbachia,0,Directed PCR,28,(Duron et al. 2008),2 Belgium(1) England(1),NA
+Araneus diadematus,Araneidae,Cardinium,0,Directed PCR,28,(Duron et al. 2008),2 Belgium(1) England(1),NA
+Argiope bruennichi,Araneidae,Wolbachia,0,Directed PCR,20,(Duron et al. 2008),1 Germany,NA
+Argiope bruennichi,Araneidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),1 Germany,NA
+Argiope lobota,Araneidae,Wolbachia,0,Directed PCR,16,(Duron et al. 2008),2 Israel(1) Spain(1),NA
+Argiope lobota,Araneidae,Cardinium,0,Directed PCR,16,(Duron et al. 2008),2 Israel(1) Spain(1),NA
+Cyclosa conica,Araneidae,Wolbachia,0,Directed PCR,20,(Duron et al. 2008),1 Germany,NA
+Cyclosa conica,Araneidae,Cardinium,0.4,Directed PCR,20,(Duron et al. 2008),1 Germany,NA
+Larinioides cornutus,Araneidae,Wolbachia,0,Directed PCR,20,(Duron et al. 2008),1 England,NA
+Larinioides cornutus,Araneidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),1 England,NA
+Larinioides sclopetarius,Araneidae,Wolbachia,0,Directed PCR,20,(Duron et al. 2008),1 Germany,NA
+Larinioides sclopetarius,Araneidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),1 Germany,NA
+Dysdera crocata,Dysderidae,Wolbachia,0,Directed PCR,2,(Duron et al. 2008),1 France,NA
+Dysdera crocata,Dysderidae,Cardinium,0,Directed PCR,2,(Duron et al. 2008),1 France,NA
+Linyphia triangularis,Linyphiidae,Wolbachia,0.58,Directed PCR,26,(Duron et al. 2008),3 Germany(1) England(2),NA
+Linyphia triangularis,Linyphiidae,Cardinium,0.44,Directed PCR,26,(Duron et al. 2008),3 Germany(1) England(2),NA
+Neriene clathrata,Linyphiidae,Wolbachia,0,Directed PCR,20,(Duron et al. 2008),1 Belgium,NA
+Neriene clathrata,Linyphiidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),1 Belgium,NA
+Alopecosa pulverulenta,Lycosidae,Wolbachia,0.25,Directed PCR,20,(Duron et al. 2008),1 Switzerland,﻿NA
+Alopecosa pulverulenta,Lycosidae,Cardinium,0.75,Directed PCR,20,(Duron et al. 2008),1 Switzerland,NA
+Pardosa lugubris,Lycosidae,Wolbachia,0,Directed PCR,20,(Duron et al. 2008),1 Germany,NA
+Pardosa lugubris,Lycosidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),1 Germany,NA
+Pardosa pullata,Lycosidae,Wolbachia,0.05,Directed PCR,20,(Duron et al. 2008),1 Switzerland,﻿NA
+Pardosa pullata,Lycosidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),1 Switzerland,NA
+Pardosa purbeckensis,Lycosidae,Wolbachia,0,Directed PCR,20,(Duron et al. 2008),1 Belgium,NA
+Pardosa purbeckensis,Lycosidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),1 Belgium,NA
+Holocnemus pluchei,Pholcidae,Wolbachia,0,Directed PCR,20,(Duron et al. 2008),1 France,NA
+Holocnemus pluchei,Pholcidae,Cardinium,0.4,Directed PCR,20,(Duron et al. 2008),1 France,NA
+Pholcus phalangioides,Pholcidae,Wolbachia,0.93,Directed PCR,40,(Duron et al. 2008),2 Germany(1) England(1),Similar in populations
+Pholcus phalangioides,Pholcidae,Cardinium,0,Directed PCR,40,(Duron et al. 2008),2 Germany(1) England(1),Similar in populations
+Pisaura mirabilis,Pisauridae,Wolbachia,0,Directed PCR,12,(Duron et al. 2008),1 England,NA
+Pisaura mirabilis,Pisauridae,Cardinium,0,Directed PCR,12,(Duron et al. 2008),1 England,NA
+Evarcha falcata,Salticidae,Wolbachia,0,Directed PCR,20,(Duron et al. 2008),1 Belgium,NA
+Evarcha falcata,Salticidae,Cardinium,0.45,Directed PCR,20,(Duron et al. 2008),1 Belgium,NA
+Meta mengei,Tetragnathidae,Wolbachia,0.5,Directed PCR,20,(Duron et al. 2008),1 England,Female bias
+Meta mengei,Tetragnathidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),1 England,NA
+Meta segmenta,Tetragnathidae,Wolbachia,0.15,Directed PCR,20,(Duron et al. 2008),1 Germany,NA
+Meta segmenta,Tetragnathidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),1 Germany,NA
+Pachygnatha degeeri,Tetragnathidae,Wolbachia,0.05,Directed PCR,20,(Duron et al. 2008),1 Switzerland,﻿NA
+Pachygnatha degeeri,Tetragnathidae,Cardinium,0.45,Directed PCR,20,(Duron et al. 2008),1 Switzerland,NA
+Pachygnatha listeri,Tetragnathidae,Wolbachia,0.25,Directed PCR,20,(Duron et al. 2008),1 Belgium,NA
+Pachygnatha listeri,Tetragnathidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),1 Belgium,NA
+Tetragnatha montana,Tetragnathidae,Wolbachia,0.25,Directed PCR,20,(Duron et al. 2008),1 England,Female bias
+Tetragnatha montana,Tetragnathidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),1 England,NA
+Enoplognatha ovata,Theridiidae,Wolbachia,0.05,Directed PCR,20,(Duron et al. 2008),1 England,NA
+Enoplognatha ovata,Theridiidae,Cardinium,0,Directed PCR,20,(Duron et al. 2008),1 England,NA
+Xysticus cristatus,Thomisidae,Wolbachia,0,Directed PCR,16,(Duron et al. 2008),1 England,NA
+Xysticus cristatus,Thomisidae,Cardinium,0,Directed PCR,16,(Duron et al. 2008),1 England,NA
+Holocnemus pluchei,Pholcidae,Cardinium,0.41,Directed PCR,510,(Stefanini and Duron 2012),26 France(18) Spain(1) Crete(1) Jordan(1) California(4) Israel(1),Not similar in populations 
+Tegenaria duellica,Agelenidae,Cardinium,1,Directed PCR,4,(Martin and Goodacre 2009),1 England,NA
+Araneus diadematus,Araneidae,Cardinium,0.4,Directed PCR,4,(Martin and Goodacre 2009),1 England,NA
+Zygiella x-notata,Araneidae,Cardinium,1,Directed PCR,4,(Martin and Goodacre 2009),1 England,NA
+Lepthyphantes minutus,Linyphiidae,Cardinium,1,Directed PCR,1,(Martin and Goodacre 2009),1 England,NA
+Pholcus phalangioides,Pholcidae,Cardinium,1,Directed PCR,1,(Martin and Goodacre 2009),1 England,NA
+Ghelna canadensis,Salticidae,Cardinium,1,Directed PCR,3,(Martin and Goodacre 2009),1 Illinois,NA
+Habrocestum pulex,Salticidae,Cardinium,1,Directed PCR,2,(Martin and Goodacre 2009),1 Illinois,NA
+Maevia inclemens,Salticidae,Cardinium,0.66,Directed PCR,3,(Martin and Goodacre 2009),1 Illinois,NA
+Marpissa lineata,Salticidae,Cardinium,0.5,Directed PCR,2,(Martin and Goodacre 2009),1 Illinois,NA
+Neon nelli,Salticidae,Cardinium,1,Directed PCR,2,(Martin and Goodacre 2009),1 Illinois,NA
+Pelegrina proterva,Salticidae,Cardinium,0.5,Directed PCR,2,(Martin and Goodacre 2009),1 Illinois,NA
+Phidippus audax,Salticidae,Cardinium,1,Directed PCR,1,(Martin and Goodacre 2009),1 Illinois,NA
+Salticus scenicus,Salticidae,Cardinium,1,Directed PCR,3,(Martin and Goodacre 2009),1 England,NA
+Meta mengei,Tetragnathidae,Cardinium,0.57,Directed PCR,7,(Martin and Goodacre 2009),1 England,NA
+Tetragnatha montana,Tetragnathidae,Cardinium,0.66,Directed PCR,3,(Martin and Goodacre 2009),1 England,NA
+Enoplognatha ovata,Theridiidae,Cardinium,1,Directed PCR,2,(Martin and Goodacre 2009),1 England,NA
+Tegenaria duellica,Agelenidae,Wolbachia,0.25,Directed PCR,4,(Goodacre et al. 2006),NA,NA
+Tegenaria duellica,Agelenidae,Rickettsia,0.5,Directed PCR,4,(Goodacre et al. 2006),NA,NA
+Tegenaria duellica,Agelenidae,Spiroplasma,0.25,Directed PCR,4,(Goodacre et al. 2006),NA,NA
+Araneus diadematus,Araneidae,Wolbachia,0.8,Directed PCR,5,(Goodacre et al. 2006),NA,NA
+Araneus diadematus,Araneidae,Rickettsia,0.6,Directed PCR,5,(Goodacre et al. 2006),NA,NA
+Araneus diadematus,Araneidae,Spiroplasma,0.2,Directed PCR,5,(Goodacre et al. 2006),NA,NA
+Zygiella x-notata,Araneidae,Wolbachia,0.25,Directed PCR,4,(Goodacre et al. 2006),NA,NA
+Zygiella x-notata,Araneidae,Rickettsia,0.75,Directed PCR,4,(Goodacre et al. 2006),NA,NA
+Zygiella x-notata,Araneidae,Spiroplasma,0.75,Directed PCR,4,(Goodacre et al. 2006),NA,NA
+Clubiona corticalis,Clubionidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona corticalis,Clubionidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona corticalis,Clubionidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona diversa,Clubionidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona diversa,Clubionidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona diversa,Clubionidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona lutescens,Clubionidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona lutescens,Clubionidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona lutescens,Clubionidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona neglecta,Clubionidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona neglecta,Clubionidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona neglecta,Clubionidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona norvegicus,Clubionidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona norvegicus,Clubionidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona norvegicus,Clubionidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona pseudoneglecta,Clubionidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona pseudoneglecta,Clubionidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona pseudoneglecta,Clubionidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona rosserae,Clubionidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona rosserae,Clubionidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona rosserae,Clubionidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona trivialis,Clubionidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona trivialis,Clubionidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona trivialis,Clubionidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Clubiona brevipes,Clubionidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona brevipes,Clubionidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona brevipes,Clubionidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona pallidula,Clubionidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona pallidula,Clubionidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona pallidula,Clubionidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona reclusa,Clubionidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona reclusa,Clubionidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona reclusa,Clubionidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona subtilis,Clubionidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona subtilis,Clubionidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona subtilis,Clubionidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona terrestris,Clubionidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona terrestris,Clubionidae,Rickettsia,0.5,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona terrestris,Clubionidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Clubiona comta,Clubionidae,Wolbachia,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Clubiona comta,Clubionidae,Rickettsia,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Clubiona comta,Clubionidae,Spiroplasma,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Clubiona phragmitis,Clubionidae,Wolbachia,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Clubiona phragmitis,Clubionidae,Rickettsia,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Clubiona phragmitis,Clubionidae,Spiroplasma,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Clubiona stagnatilis,Clubionidae,Wolbachia,0,Directed PCR,4,(Goodacre et al. 2006),NA,NA
+Clubiona stagnatilis,Clubionidae,Rickettsia,0,Directed PCR,4,(Goodacre et al. 2006),NA,NA
+Clubiona stagnatilis,Clubionidae,Spiroplasma,0,Directed PCR,4,(Goodacre et al. 2006),NA,NA
+Cheiracanthium erraticum,Clubionidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Cheiracanthium erraticum,Clubionidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Cheiracanthium erraticum,Clubionidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Haplodrassus signifer,Gnaphosidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Haplodrassus signifer,Gnaphosidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Haplodrassus signifer,Gnaphosidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Drassodes pubescens,Gnaphosidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Drassodes pubescens,Gnaphosidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Drassodes pubescens,Gnaphosidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Zelotes pusillus,Gnaphosidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Zelotes pusillus,Gnaphosidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Zelotes pusillus,Gnaphosidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Zelotes pedestris,Gnaphosidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Zelotes pedestris,Gnaphosidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Zelotes pedestris,Gnaphosidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Zelotes latreillei,Gnaphosidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Zelotes latreillei,Gnaphosidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Zelotes latreillei,Gnaphosidae,Spiroplasma,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Baryphma trifrons,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Baryphma trifrons,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Baryphma trifrons,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Bathyphantes approximatus,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Bathyphantes approximatus,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Bathyphantes approximatus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Bathyphantes gracilis,Linyphiidae,Wolbachia,0.2,Directed PCR,15,(Goodacre et al. 2006),NA,NA
+Bathyphantes gracilis,Linyphiidae,Rickettsia,0,Directed PCR,15,(Goodacre et al. 2006),NA,NA
+Bathyphantes gracilis,Linyphiidae,Spiroplasma,0,Directed PCR,15,(Goodacre et al. 2006),NA,NA
+Centromerita bicolor,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Centromerita bicolor,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Centromerita bicolor,Linyphiidae,Spiroplasma,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Centromerus dilutus,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Centromerus dilutus,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Centromerus dilutus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplocentria bidentata,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplocentria bidentata,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplocentria bidentata,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplocephalus cristatus,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplocephalus cristatus,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplocephalus cristatus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplocephalus latifrons,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplocephalus latifrons,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplocephalus latifrons,Linyphiidae,Spiroplasma,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplocephalus picinus,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplocephalus picinus,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplocephalus picinus,Linyphiidae,Spiroplasma,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplostyla concolor,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplostyla concolor,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Diplostyla concolor,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Dismodicus bifrons,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Dismodicus bifrons,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Dismodicus bifrons,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Entelecara flavipes,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Entelecara flavipes,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Entelecara flavipes,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Entelecara omissa,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Entelecara omissa,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Entelecara omissa,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Erigone arctica,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Erigone arctica,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Erigone arctica,Linyphiidae,Spiroplasma,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Erigone atra,Linyphiidae,Wolbachia,0.2,Directed PCR,20,(Goodacre et al. 2006),NA,NA
+Erigone atra,Linyphiidae,Rickettsia,0.05,Directed PCR,20,(Goodacre et al. 2006),NA,NA
+Erigone atra,Linyphiidae,Spiroplasma,0,Directed PCR,20,(Goodacre et al. 2006),NA,NA
+Erigone dentipalis,Linyphiidae,Wolbachia,0.17,Directed PCR,18,(Goodacre et al. 2006),NA,NA
+Erigone dentipalis,Linyphiidae,Rickettsia,0.06,Directed PCR,18,(Goodacre et al. 2006),NA,NA
+Erigone dentipalis,Linyphiidae,Spiroplasma,0,Directed PCR,18,(Goodacre et al. 2006),NA,NA
+Erigone longipalpis,Linyphiidae,Wolbachia,0.25,Directed PCR,4,(Goodacre et al. 2006),NA,NA
+Erigone longipalpis,Linyphiidae,Rickettsia,0.25,Directed PCR,4,(Goodacre et al. 2006),NA,NA
+Erigone longipalpis,Linyphiidae,Spiroplasma,0,Directed PCR,4,(Goodacre et al. 2006),NA,NA
+Erigone promiscua,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Erigone promiscua,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Erigone promiscua,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Gnathonarium dentatum,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Gnathonarium dentatum,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Gnathonarium dentatum,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Gonatium rubellum,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Gonatium rubellum,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Gonatium rubellu,Linyphiidae,Spiroplasma,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Gonatium rubens,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Gonatium rubens,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Gonatium rubens,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Gongylidiellum vivum,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Gongylidiellum vivum,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Gongylidiellum vivum,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Halorates reprobus,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Halorates reprobus,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Halorates reprobus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Hybocoptus decollatus,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Hybocoptus decollatus,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Hybocoptus decollatus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Hylyphantes graminicola,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Hylyphantes graminicola,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Hylyphantes graminicola,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Hypomma bituberculatum,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Hypomma bituberculatum,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Hypomma bituberculatum,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Hypomma cornutum,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Hypomma cornutum,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Hypomma cornutum,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes ericeus,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes ericeus,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes ericeus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes flavipes,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes flavipes,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes flavipes,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes mengei,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes mengei,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes mengei,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes minutus,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes minutus,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes minutus,Linyphiidae,Spiroplasma,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes tenuis,Linyphiidae,Wolbachia,0.1,Directed PCR,20,(Goodacre et al. 2006),NA,NA
+Lepthyphantes tenuis,Linyphiidae,Rickettsia,0,Directed PCR,20,(Goodacre et al. 2006),NA,NA
+Lepthyphantes tenuis,Linyphiidae,Spiroplasma,0,Directed PCR,20,(Goodacre et al. 2006),NA,NA
+Lepthyphantes zimmermani,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes zimmermani,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Lepthyphantes zimmermani,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Linyphia triangularis,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Linyphia triangularis,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Linyphia triangularis,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Macrarugs rufus,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Macrarugs rufus,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Macrarugs rufus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Megalepthyphantes collinus,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Megalepthyphantes collinus,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Megalepthyphantes collinus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Meioneta rurestris,Linyphiidae,Wolbachia,0.05,Directed PCR,20,(Goodacre et al. 2006),NA,NA
+Meioneta rurestris,Linyphiidae,Rickettsia,0,Directed PCR,20,(Goodacre et al. 2006),NA,NA
+Meioneta rurestris,Linyphiidae,Spiroplasma,0,Directed PCR,20,(Goodacre et al. 2006),NA,NA
+Meioneta saxatilis,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Meioneta saxatilis,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Meioneta saxatilis,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Meioneta simplicitarsis,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Meioneta simplicitarsis,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Meioneta simplicitarsis,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Metopobactrus prominulus,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Metopobactrus prominulus,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Metopobactrus prominulus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Micrargus herbigadus,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Micrargus herbigadus,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Micrargus herbigadus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Microlinyphia imprigra,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Microlinyphia imprigra,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Microlinyphia imprigra,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Microlinyphia pusilla,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Microlinyphia pusilla,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Microlinyphia pusilla,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Microneta viaria,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Microneta viaria,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Microneta viaria,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Monocephalus fuscipes,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Monocephalus fuscipes,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Monocephalus fuscipes,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Neriene montana,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Neriene montana,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Neriene montana,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Neriene clathrata,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Neriene clathrata,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Neriene clathrata,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Neriene peltata,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Neriene peltata,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Neriene peltata,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Oedothorax apicatus,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Oedothorax apicatus,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Oedothorax apicatus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Oedothorax fuscus,Linyphiidae,Wolbachia,0.08,Directed PCR,12,(Goodacre et al. 2006),NA,NA
+Oedothorax fuscus,Linyphiidae,Rickettsia,0.08,Directed PCR,12,(Goodacre et al. 2006),NA,NA
+Oedothorax fuscus,Linyphiidae,Spiroplasma,0,Directed PCR,12,(Goodacre et al. 2006),NA,NA
+Oedothorax gibbosus,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Oedothorax gibbosus,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Oedothorax gibbosus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Oedothorax retusus,Linyphiidae,Wolbachia,0.6,Directed PCR,20,(Goodacre et al. 2006),NA,NA
+Oedothorax retusus,Linyphiidae,Rickettsia,0,Directed PCR,20,(Goodacre et al. 2006),NA,NA
+Oedothorax retusus,Linyphiidae,Spiroplasma,0,Directed PCR,20,(Goodacre et al. 2006),NA,NA
+Pityohyphantes phrygianus,Linyphiidae,Wolbachia,0.75,Directed PCR,16,(Goodacre et al. 2006),NA,NA
+Pityohyphantes phrygianus,Linyphiidae,Rickettsia,0.13,Directed PCR,16,(Goodacre et al. 2006),NA,NA
+Pityohyphantes phrygianus,Linyphiidae,Spiroplasma,0,Directed PCR,16,(Goodacre et al. 2006),NA,NA
+Pelecopsis nemaralioides,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pelecopsis nemaralioides,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pelecopsis nemaralioides,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Peponcranium ludicrum,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Peponcranium ludicrum,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Peponcranium ludicrum,Linyphiidae,Spiroplasma,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pocadicnemus juncea,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pocadicnemus juncea,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pocadicnemus juncea,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Savignya frontata,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Savignya frontata,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Savignya frontata,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Silometopus ambiguus,Linyphiidae,Wolbachia,0.5,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Silometopus ambiguus,Linyphiidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Silometopus ambiguus,Linyphiidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Silometopus elegans,Linyphiidae,Wolbachia,0.5,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Silometopus elegans,Linyphiidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Silometopus elegans,Linyphiidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Stemonyphantes lineatus,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Stemonyphantes lineatus,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Stemonyphantes lineatus,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Tiso vagans,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Tiso vagans,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Tiso vagans,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Trichoncus affinis,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Trichoncus affinis,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Trichoncus affinis,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Troxochrus scabriculus,Linyphiidae,Wolbachia,0.5,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Troxochrus scabriculus,Linyphiidae,Rickettsia,0.5,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Troxochrus scabriculus,Linyphiidae,Spiroplasma,0.5,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Walckenaeria acuminata,Linyphiidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Walckenaeria acuminata,Linyphiidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Walckenaeria acuminata,Linyphiidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Walckenaeria antica,Linyphiidae,Wolbachia,0.2,Directed PCR,5,(Goodacre et al. 2006),NA,NA
+Walckenaeria antica,Linyphiidae,Rickettsia,0,Directed PCR,5,(Goodacre et al. 2006),NA,NA
+Walckenaeria antica,Linyphiidae,Spiroplasma,0,Directed PCR,5,(Goodacre et al. 2006),NA,NA
+Walckenaeria atrotibialis,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria atrotibialis,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria atrotibialis,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria cucullata,Linyphiidae,Wolbachia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria cucullata,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria cucullata,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria cuspidata,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria cuspidata,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria cuspidata,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria dysderoides,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria dysderoides,Linyphiidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria dysderoides,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria obtusa,Linyphiidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria obtusa,Linyphiidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria obtusa,Linyphiidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Walckenaeria unicornis,Linyphiidae,Wolbachia,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Walckenaeria unicornis,Linyphiidae,Rickettsia,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Walckenaeria unicornis,Linyphiidae,Spiroplasma,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Pardosa agrestris,Lycosidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pardosa agrestris,Lycosidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pardosa agrestris,Lycosidae,Spiroplasma,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pardosa agricola,Lycosidae,Wolbachia,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Pardosa agricola,Lycosidae,Rickettsia,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Pardosa agricola,Lycosidae,Spiroplasma,0.67,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Pardosa pullata,Lycosidae,Wolbachia,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Pardosa pullata,Lycosidae,Rickettsia,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Pardosa pullata,Lycosidae,Spiroplasma,0.67,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Pardosa monticola,Lycosidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pardosa monticola,Lycosidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pardosa monticola,Lycosidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pardosa nigriceps,Lycosidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pardosa nigriceps,Lycosidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pardosa nigriceps,Lycosidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pardosa lugubris,Lycosidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa lugubris,Lycosidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa lugubris,Lycosidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa amentata,Lycosidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa amentata,Lycosidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa amentata,Lycosidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa atrata,Lycosidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa atrata,Lycosidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa atrata,Lycosidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa bifasciata,Lycosidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa bifasciata,Lycosidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa bifasciata,Lycosidae,Spiroplasma,0.5,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa hyperborea,Lycosidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa hyperborea,Lycosidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa hyperborea,Lycosidae,Spiroplasma,1,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa lugubris,Lycosidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa lugubris,Lycosidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa lugubris,Lycosidae,Spiroplasma,0.5,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa prativaga,Lycosidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa prativaga,Lycosidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa prativaga,Lycosidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa riparia,Lycosidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa riparia,Lycosidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa riparia,Lycosidae,Spiroplasma,0.5,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa shenkeli,Lycosidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa shenkeli,Lycosidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa shenkeli,Lycosidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa palustris,Lycosidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa palustris,Lycosidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa palustris,Lycosidae,Spiroplasma,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa sphagnicola,Lycosidae,Wolbachia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa sphagnicola,Lycosidae,Rickettsia,0,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa sphagnicola,Lycosidae,Spiroplasma,0.5,Directed PCR,2,(Goodacre et al. 2006),NA,NA
+Pardosa fulvipes,Lycosidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pardosa fulvipes,Lycosidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pardosa fulvipes,Lycosidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pirata hygrophilus,Lycosidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pirata hygrophilus,Lycosidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pirata hygrophilus,Lycosidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Arctosa perita,Lycosidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Arctosa perita,Lycosidae,Rickettsia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Arctosa perita,Lycosidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Dolomedes plantarius,Pisauridae,Wolbachia,0,Directed PCR,5,(Goodacre et al. 2006),NA,NA
+Dolomedes plantarius,Pisauridae,Rickettsia,0,Directed PCR,5,(Goodacre et al. 2006),NA,NA
+Dolomedes plantarius,Pisauridae,Spiroplasma,0,Directed PCR,5,(Goodacre et al. 2006),NA,NA
+Pholcus phalangoides,Pholcidae,Wolbachia,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pholcus phalangoides,Pholcidae,Rickettsia,1,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Pholcus phalangoides,Pholcidae,Spiroplasma,0,Directed PCR,1,(Goodacre et al. 2006),NA,NA
+Meta mengei,Tetragnathidae,Wolbachia,0.4,Directed PCR,5,(Goodacre et al. 2006),NA,NA
+Meta mengei,Tetragnathidae,Rickettsia,0.8,Directed PCR,5,(Goodacre et al. 2006),NA,NA
+Meta mengei,Tetragnathidae,Spiroplasma,0.4,Directed PCR,5,(Goodacre et al. 2006),NA,NA
+Tetragnatha montana,Tetragnathidae,Wolbachia,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Tetragnatha montana,Tetragnathidae,Rickettsia,0,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Tetragnatha montana,Tetragnathidae,Spiroplasma,0.33,Directed PCR,3,(Goodacre et al. 2006),NA,NA
+Larinioides cornuta,Araneidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Larinioides cornuta,Araneidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Larinioides cornuta,Araneidae,Spiroplasma,0.47,Directed PCR,30,(Jin et al. 2013),NA,NA
+Argiope amoena,Araneidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Argiope amoena,Araneidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Argiope amoena,Araneidae,Spiroplasma,0.13,Directed PCR,30,(Jin et al. 2013),NA,NA
+Eriovixia cavaleriei,Araneidae,Wolbachia,0.3,Directed PCR,30,(Jin et al. 2013),NA,NA
+Eriovixia cavaleriei,Araneidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Eriovixia cavaleriei,Araneidae,Spiroplasma,0.43,Directed PCR,30,(Jin et al. 2013),NA,NA
+Cyclosa octotuberculata,Araneidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Cyclosa octotuberculata,Araneidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Cyclosa octotuberculata,Araneidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Clubiona japonicola,Clubionidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Clubiona japonicola,Clubionidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Clubiona japonicola,Clubionidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Clubiona deletrix,Clubionidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Clubiona deletrix,Clubionidae,Cardinium,0.57,Directed PCR,30,(Jin et al. 2013),NA,NA
+Clubiona deletrix,Clubionidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Nephila clavata,Nephilidae,Wolbachia,0.53,Directed PCR,30,(Jin et al. 2013),NA,NA
+Nephila clavata,Nephilidae,Cardinium,0.07,Directed PCR,30,(Jin et al. 2013),NA,NA
+Nephila clavata,Nephilidae,Spiroplasma,0.1,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pardosa astrigera,Lycosidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pardosa astrigera,Lycosidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pardosa astrigera,Lycosidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pardosa pseudoannulata,Lycosidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pardosa pseudoannulata,Lycosidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pardosa pseudoannulata,Lycosidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pardosa laura,Lycosidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pardosa laura,Lycosidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pardosa laura,Lycosidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pirata tenuisetaceus,Lycosidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pirata tenuisetaceus,Lycosidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pirata tenuisetaceus,Lycosidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pirata piraticus,Lycosidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pirata piraticus,Lycosidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pirata piraticus,Lycosidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Arctosa kiangsiensis,Lycosidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Arctosa kiangsiensis,Lycosidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Arctosa kiangsiensis,Lycosidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Hylyphantes graminicola,Linyphiidae,Wolbachia,0.2,Directed PCR,10,(Jin et al. 2013),NA,NA
+Hylyphantes graminicola,Linyphiidae,Cardinium,1,Directed PCR,10,(Jin et al. 2013),NA,NA
+Hylyphantes graminicola,Linyphiidae,Spiroplasma,0,Directed PCR,10,(Jin et al. 2013),NA,NA
+Neriene radiata,Linyphiidae,Wolbachia,0,Directed PCR,10,(Jin et al. 2013),NA,NA
+Neriene radiata,Linyphiidae,Cardinium,0,Directed PCR,10,(Jin et al. 2013),NA,NA
+Neriene radiata,Linyphiidae,Spiroplasma,0,Directed PCR,10,(Jin et al. 2013),NA,NA
+Neriene longipedella,Linyphiidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Neriene longipedella,Linyphiidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Neriene longipedella,Linyphiidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Neriene japonica,Linyphiidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Neriene japonica,Linyphiidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Neriene japonica,Linyphiidae,Spiroplasma,0.07,Directed PCR,30,(Jin et al. 2013),NA,NA
+Neriene oidedicata,Linyphiidae,Wolbachia,0,Directed PCR,20,(Jin et al. 2013),NA,NA
+Neriene oidedicata,Linyphiidae,Cardinium,0,Directed PCR,20,(Jin et al. 2013),NA,NA
+Neriene oidedicata,Linyphiidae,Spiroplasma,0,Directed PCR,20,(Jin et al. 2013),NA,NA
+Neriene macella,Linyphiidae,Wolbachia,0,Directed PCR,10,(Jin et al. 2013),NA,NA
+Neriene macella,Linyphiidae,Cardinium,0,Directed PCR,10,(Jin et al. 2013),NA,NA
+Neriene macella,Linyphiidae,Spiroplasma,0,Directed PCR,10,(Jin et al. 2013),NA,NA
+Neriene zhui,Linyphiidae,Wolbachia,0,Directed PCR,10,(Jin et al. 2013),NA,NA
+Neriene zhui,Linyphiidae,Cardinium,0,Directed PCR,10,(Jin et al. 2013),NA,NA
+Neriene zhui,Linyphiidae,Spiroplasma,0,Directed PCR,10,(Jin et al. 2013),NA,NA
+Prosoponoides sinensis,Linyphiidae,Wolbachia,0.13,Directed PCR,30,(Jin et al. 2013),NA,NA
+Prosoponoides sinensis,Linyphiidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Prosoponoides sinensis,Linyphiidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Ummeliata insecticeps,Linyphiidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Ummeliata insecticeps,Linyphiidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Ummeliata insecticeps,Linyphiidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Neriene poculiforma,Linyphiidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Neriene poculiforma,Linyphiidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Neriene poculiforma,Linyphiidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Oxyopes javanus,Oxyopidae,Wolbachia,0.23,Directed PCR,30,(Jin et al. 2013),NA,NA
+Oxyopes javanus,Oxyopidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Oxyopes javanus,Oxyopidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Oxyopes sertatus,Oxyopidae,Wolbachia,0.67,Directed PCR,30,(Jin et al. 2013),NA,NA
+Oxyopes sertatus,Oxyopidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Oxyopes sertatus,Oxyopidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Crossopriza lyoni,Pholcidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Crossopriza lyoni,Pholcidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Crossopriza lyoni,Pholcidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pholcus affinis,Pholcidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pholcus affinis,Pholcidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Pholcus affinis,Pholcidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Ebrechtella tricuspidatus,Thomisidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Ebrechtella tricuspidatus,Thomisidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Ebrechtella tricuspidatus,Thomisidae,Spiroplasma,0.57,Directed PCR,30,(Jin et al. 2013),NA,NA
+Tetragnatha praedonia,Tetragnathidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Tetragnatha praedonia,Tetragnathidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Tetragnatha praedonia,Tetragnathidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Coleosoma octomaculatum,Theridiidae,Wolbachia,0.1,Directed PCR,30,(Jin et al. 2013),NA,NA
+Coleosoma octomaculatum,Theridiidae,Cardinium,0.13,Directed PCR,30,(Jin et al. 2013),NA,NA
+Coleosoma octomaculatum,Theridiidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Uroctea lesserti,Urocteidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Uroctea lesserti,Urocteidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Uroctea lesserti,Urocteidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Dolomedes sulfureus,Pisauridae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Dolomedes sulfureus,Pisauridae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Dolomedes sulfureus,Pisauridae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Philodromus spinitarsis,Philodromidae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Philodromus spinitarsis,Philodromidae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Philodromus spinitarsis,Philodromidae,Spiroplasma,0.2,Directed PCR,30,(Jin et al. 2013),NA,NA
+Philoponella alata,Uloboridae,Wolbachia,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Philoponella alata,Uloboridae,Cardinium,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Philoponella alata,Uloboridae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Nurscia albofasciata,Titanoecidae,Wolbachia,0.4,Directed PCR,30,(Jin et al. 2013),NA,NA
+Nurscia albofasciata,Titanoecidae,Cardinium,0.23,Directed PCR,30,(Jin et al. 2013),NA,NA
+Nurscia albofasciata,Titanoecidae,Spiroplasma,0,Directed PCR,30,(Jin et al. 2013),NA,NA
+Draconarius wudangensis,Agelenidae,Wolbachia,0,Directed PCR,20,(Jin et al. 2013),NA,NA
+Draconarius wudangensis,Agelenidae,Cardinium,0,Directed PCR,20,(Jin et al. 2013),NA,NA
+Draconarius wudangensis,Agelenidae,Spiroplasma,0,Directed PCR,20,(Jin et al. 2013),NA,NA
+Paracoelotes luctuosus,Agelenidae,Wolbachia,0,Directed PCR,20,(Jin et al. 2013),NA,NA
+Paracoelotes luctuosus,Agelenidae,Cardinium,0,Directed PCR,20,(Jin et al. 2013),NA,NA
+Paracoelotes luctuosus,Agelenidae,Spiroplasma,0,Directed PCR,20,(Jin et al. 2013),NA,NA
+Oedothorax gibbosus,Linyphiidae,Wolbachia,0.45,Directed PCR,110,"(Vanthournout, Swaegers and Hendrickx 2011)",2 Belgium(2),No sex difference
+Telema cucurbitina,Telemidae,Wolbachia,1,Directed PCR,68,(Wang et al. 2016),1 China,Actually several species in a complex
+Telema cordata,Telemidae,Wolbachia,1,Directed PCR,16,(Wang et al. 2016),1 China,NA
+Agelenopsis aperta,Agelenidae,Wolbachia,0.8,Directed PCR,83,(Baldo et al. 2008),12 California(4) NewMexico(1) Texas(3) Utah(1) Arizona(1) Colorado(1) Oklahoma(1),NA
+Agelenopsis aleenae,Agelenidae,Wolbachia,0.75,Directed PCR,8,(Baldo et al. 2008),2 NewMexico(1) Kansas(1),NA
+Agelenopsis emertoni,Agelenidae,Wolbachia,0.66,Directed PCR,3,(Baldo et al. 2008),Tennessee(1) Oklahoma(1),NA
+Agelenopsis longistyla,Agelenidae,Wolbachia,1,Directed PCR,4,(Baldo et al. 2008),2 NewMexico(2),NA
+Agelenopsisnaevia,Agelenidae,Wolbachia,1,Directed PCR,3,(Baldo et al. 2008),1 Texas,NA
+Agelenopsis oklahoma,Agelenidae,Wolbachia,0.66,Directed PCR,6,(Baldo et al. 2008),1 Colorado,NA
+Agelenopsis pennsylvanica,Agelenidae,Wolbachia,1,Directed PCR,5,(Baldo et al. 2008),3 Colorado(1) Kansas(1) Tennessee(1),NA
+Agelenopsis utahana,Agelenidae,Wolbachia,0.29,Directed PCR,7,(Baldo et al. 2008),1 Utah,NA
+Barronopsis texana,Agelenidae,Wolbachia,1,Directed PCR,2,(Baldo et al. 2008),1 Florida,NA
+Agelenopsis spatula,Agelenidae,Wolbachia,0.4,Directed PCR,5,(Baldo et al. 2008),3  Texas(2) Oklahoma(1),NA
+Cybaeus angustiarum,Cybaeidae,Cardinium,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 CzechRepublic,NA
+Cybaeus angustiarum,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 CzechRepublic,NA
+Cybaeus chauliodous,Cybaeidae,Cardinium,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus chauliodous,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus eutypus,Cybaeidae,Cardinium,1,Directed PCR,4,"(Perlman, Magnus and Copley 2010)",1 BritishColumbia,NA
+Cybaeus eutypus,Cybaeidae,Wolbachia,1,Directed PCR,4,"(Perlman, Magnus and Copley 2010)",1 BritishColumbia,NA
+Cybaeus gidneyi,Cybaeidae,Cardinium,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus gidneyi,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus giganteus,Cybaeidae,Cardinium,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 NorthCarolina,NA
+Cybaeus giganteus,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 NorthCarolina,NA
+Cybaeus hesper,Cybaeidae,Cardinium,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus hesper,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus morosus,Cybaeidae,Cardinium,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 BritishColumbia,NA
+Cybaeus morosus,Cybaeidae,Wolbachia,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 BritishColumbia,NA
+Cybaeus multnoma,Cybaeidae,Cardinium,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 Oregon,NA
+Cybaeus multnoma,Cybaeidae,Wolbachia,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 Oregon,NA
+Cybaeus paralypropriapus,Cybaeidae,Cardinium,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 Oregon,NA
+Cybaeus paralypropriapus,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 Oregon,NA
+Cybaeus patritus,Cybaeidae,Cardinium,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 tennessee,NA
+Cybaeus patritus,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 tennessee,NA
+Cybaeus penedentatus,Cybaeidae,Cardinium,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus penedentatus,Cybaeidae,Wolbachia,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus reticulatus,Cybaeidae,Cardinium,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 BritishColumbia,NA
+Cybaeus reticulatus,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 BritishColumbia,NA
+Cybaeus sanbruno,Cybaeidae,Cardinium,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus sanbruno,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus shoshoneus,Cybaeidae,Cardinium,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 Washington,NA
+Cybaeus shoshoneus,Cybaeidae,Wolbachia,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 Washington,NA
+Cybaeus signifer,Cybaeidae,Cardinium,0.96,Directed PCR,26,"(Perlman, Magnus and Copley 2010)",1 BritishColumbia,NA
+Cybaeus signifer,Cybaeidae,Wolbachia,0.88,Directed PCR,26,"(Perlman, Magnus and Copley 2010)",1 BritishColumbia,NA
+Cybaeus somesbar,Cybaeidae,Cardinium,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus somesbar,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus tetricus,Cybaeidae,Cardinium,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 Slovenia,NA
+Cybaeus tetricus,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 Slovenia,NA
+Cybaeus thermydrinos,Cybaeidae,Cardinium,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus thermydrinos,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus vulpinus,Cybaeidae,Cardinium,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus vulpinus,Cybaeidae,Wolbachia,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeus waynei,Cybaeidae,Cardinium,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 Oregon,NA
+Cybaeus waynei,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 Oregon,NA
+Cybaeota nana,Cybaeidae,Cardinium,1,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Cybaeota nana,Cybaeidae,Wolbachia,0,Directed PCR,1,"(Perlman, Magnus and Copley 2010)",1 California,NA
+Hylyphantes Graminicola,Linyphiidae,Wolbachia,0.2,Directed PCR,560,(Yun et al. 2011),11 China(11),Variation between populations
+Larinioides cornuta,Araneidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Araneus alternidens,Araneidae,Wolbachia,0.27,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Araneus ventricosus,Araneidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Argiope amoena,Araneidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Clubiona japonicola,Clubionidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Clubiona deletrix,Clubionidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Nephila clavata,Nephilidae,Wolbachia,1,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Pardosa astrigera ,Lycosidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Pardosa pseudoannulata ,Lycosidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Pardosa laura ,Lycosidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Arctosa kiangsiensis,Lycosidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Hylyphantes graminicola,Linyphiidae,Wolbachia,0.6,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Neriene japonica ,Linyphiidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Neriene oidedicata ,Linyphiidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Prosoponoides sinensis ,Linyphiidae,Wolbachia,0.1,Directed PCR,10,(Yan et al. 2015),1 China,NA
+Ummeliata insecticeps,Linyphiidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Erigone prominens,Linyphiidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Oxyopes lineatipes,Oxyopidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Pholcus crypticolens,Pholcidae,Wolbachia,0.53,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Ebrechtella tricuspidatus,Thomisidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Tetragnatha praedonia ,Tetragnathidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Tetragnatha shikokiana ,Tetragnathidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Tetragnatha squamata,Tetragnathidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Uroctea lesserti,Urocteidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Coleosoma octomaculatum ,Theridiidae,Wolbachia,0.37,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Achaearanea tepidariorum,Theridiidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Oecobius cellariorum,Oecobiidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Philodromus spinitarsis,Philodromidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Philoponella alata,Uloboridae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Nurscia albofasciata,Titanoecidae,Wolbachia,0.47,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Agelena labyrinthica,Agelenidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Marpiss magister,Salticidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Plexippus paykulli,Salticidae,Wolbachia,0,Directed PCR,30,(Yan et al. 2015),1 China,NA
+Araneus sp.,Araneidae,Wolbachia,1,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Larina tabida,Araneidae,Wolbachia,1,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Poecilopachys australasiae,Araneidae,Wolbachia,1,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Argiope keyserlingi,Araneidae,Wolbachia,0,Directed PCR,2,"(Rowley, Raven and McGraw 2004)",2 Australia(2),NA
+Cyrtophora moluccensis,Araneidae,Wolbachia,0,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Eriophora transmarina,Araneidae,Wolbachia,0,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Dolophones spp.,Araneidae,Wolbachia,0,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Deinopis subrufa,Deinopidae,Wolbachia,0,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Badumna longinqua,Desidae,Wolbachia,1,Directed PCR,2,"(Rowley, Raven and McGraw 2004)",2 Australia(2),NA
+Cheiracanthium spp.,Miturgidae,Wolbachia,0,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Pholcus phalangioides,Pholcidae,Wolbachia,1,Directed PCR,2,"(Rowley, Raven and McGraw 2004)",2 Australia(2),NA
+Holoplatys sp.,Salticidae,Wolbachia,1,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Leucauge dromedaria,Tetragnathidae,Wolbachia,1,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Nephila plumipes,Tetragnathidae,Wolbachia,1,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Phonognatha graeffei,Tetragnathidae,Wolbachia,0,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Latrodectus hasseltii,Theridiidae,Wolbachia,0,Directed PCR,2,"(Rowley, Raven and McGraw 2004)",2 Australia(2),NA
+Argyrodes antipodianus,Theridiidae,Wolbachia,0,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Diaea sp.,Thomisidae,Wolbachia,1,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Diaea circumlita,Thomisidae,Wolbachia,1,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Zosis geniculatus,Uloboridae,Wolbachia,1,Directed PCR,1,"(Rowley, Raven and McGraw 2004)",1 Australia,NA
+Agyneta semipallida,Linyphiidae,Cardinium,0,Directed PCR,1,(White et al. 2019),1 Kentucky,NA
+Agyneta semipallida,Linyphiidae,Wolbachia,0,Directed PCR,1,(White et al. 2019),1 Kentucky,NA
+Agyneta semipallida,Linyphiidae,Rickettsia,0,Directed PCR,1,(White et al. 2019),1 Kentucky,NA
+Agyneta serrata,Linyphiidae,Cardinium,0,Directed PCR,16,(White et al. 2019),1 Kentucky,NA
+Agyneta serrata,Linyphiidae,Wolbachia,0,Directed PCR,16,(White et al. 2019),1 Kentucky,NA
+Agyneta serrata,Linyphiidae,Rickettsia,0,Directed PCR,16,(White et al. 2019),1 Kentucky,NA
+Agyneta unimaculata,Linyphiidae,Cardinium,0.2,Directed PCR,5,(White et al. 2019),1 Kentucky,NA
+Agyneta unimaculata,Linyphiidae,Wolbachia,0,Directed PCR,5,(White et al. 2019),1 Kentucky,NA
+Agyneta unimaculata,Linyphiidae,Rickettsia,0.4,Directed PCR,5,(White et al. 2019),1 Kentucky,NA
+Erigone autumnalis,Linyphiidae,Cardinium,0,Directed PCR,21,(White et al. 2019),1 Kentucky,NA
+Erigone autumnalis,Linyphiidae,Wolbachia,0.1,Directed PCR,21,(White et al. 2019),1 Kentucky,NA
+Erigone autumnalis,Linyphiidae,Rickettsia,0,Directed PCR,21,(White et al. 2019),1 Kentucky,NA
+Florinda coccinea,Linyphiidae,Cardinium,0,Directed PCR,4,(White et al. 2019),1 Kentucky,NA
+Florinda coccinea,Linyphiidae,Wolbachia,0,Directed PCR,4,(White et al. 2019),1 Kentucky,NA
+Florinda coccinea,Linyphiidae,Rickettsia,0,Directed PCR,4,(White et al. 2019),1 Kentucky,NA
+Idionella rugosa,Linyphiidae,Cardinium,1,Directed PCR,75,(White et al. 2019),1 Kentucky,NA
+Idionella rugosa,Linyphiidae,Wolbachia,0.84,Directed PCR,75,(White et al. 2019),1 Kentucky,NA
+Idionella rugosa,Linyphiidae,Rickettsia,0.27,Directed PCR,75,(White et al. 2019),1 Kentucky,NA
+Islandiana flaveola,Linyphiidae,Cardinium,0,Directed PCR,2,(White et al. 2019),1 Kentucky,NA
+Islandiana flaveola,Linyphiidae,Wolbachia,0,Directed PCR,2,(White et al. 2019),1 Kentucky,NA
+Islandiana flaveola,Linyphiidae,Rickettsia,0,Directed PCR,2,(White et al. 2019),1 Kentucky,NA
+Mermessus sp. 1,Linyphiidae,Cardinium,0,Directed PCR,25,(White et al. 2019),1 Kentucky,NA
+Mermessus sp. 1,Linyphiidae,Wolbachia,0.96,Directed PCR,25,(White et al. 2019),1 Kentucky,NA
+Mermessus sp. 1,Linyphiidae,Rickettsia,0.08,Directed PCR,25,(White et al. 2019),1 Kentucky,NA
+Mermessus tridentatus,Linyphiidae,Cardinium,0,Directed PCR,1,(White et al. 2019),1 Kentucky,NA
+Mermessus tridentatus,Linyphiidae,Wolbachia,1,Directed PCR,1,(White et al. 2019),1 Kentucky,NA
+Mermessus tridentatus,Linyphiidae,Rickettsia,1,Directed PCR,1,(White et al. 2019),1 Kentucky,NA
+Mermessus trilobatus,Linyphiidae,Cardinium,0.02,Directed PCR,66,(White et al. 2019),1 Kentucky,NA
+Mermessus trilobatus,Linyphiidae,Wolbachia,0.2,Directed PCR,66,(White et al. 2019),1 Kentucky,NA
+Mermessus trilobatus,Linyphiidae,Rickettsia,0.68,Directed PCR,66,(White et al. 2019),1 Kentucky,NA
+Tennesseellum formica,Linyphiidae,Cardinium,0,Directed PCR,20,(White et al. 2019),1 Kentucky,NA
+Tennesseellum formica,Linyphiidae,Wolbachia,0.05,Directed PCR,20,(White et al. 2019),1 Kentucky,NA
+Tennesseellum formica,Linyphiidae,Rickettsia,0,Directed PCR,20,(White et al. 2019),1 Kentucky,NA
+Walckenaeria microspiralis,Linyphiidae,Cardinium,1,Directed PCR,1,(White et al. 2019),1 Kentucky,NA
+Walckenaeria microspiralis,Linyphiidae,Wolbachia,1,Directed PCR,1,(White et al. 2019),1 Kentucky,NA
+Walckenaeria microspiralis,Linyphiidae,Rickettsia,0,Directed PCR,1,(White et al. 2019),1 Kentucky,NA
+Glenognatha foxi,Tetragnathidae,Cardinium,0,Directed PCR,20,(White et al. 2019),1 Kentucky,NA
+Glenognatha foxi,Tetragnathidae,Wolbachia,0.3,Directed PCR,20,(White et al. 2019),1 Kentucky,NA
+Glenognatha foxi,Tetragnathidae,Rickettsia,0,Directed PCR,20,(White et al. 2019),1 Kentucky,NA
+Oxyopes salticus,Oxyopidae,Cardinium,0,Directed PCR,10,(White et al. 2019),1 Kentucky,NA
+Oxyopes salticus,Oxyopidae,Wolbachia,0.35,Directed PCR,10,(White et al. 2019),1 Kentucky,NA
+Oxyopes salticus,Oxyopidae,Rickettsia,0,Directed PCR,10,(White et al. 2019),1 Kentucky,NA
+Argiope bruennichi,Araneidae,Wolbachia,0,Full16s,6,(Sheffer et al. 2020),2 Germany(1) Estonia(1),NA
+Argiope bruennichi,Araneidae,Rickettsia,0,Full16s,6,(Sheffer et al. 2020),2 Germany(1) Estonia(1),NA
+Argiope bruennichi,Araneidae,Cardinium,0,Full16s,6,(Sheffer et al. 2020),2 Germany(1) Estonia(1),NA
+Argiope bruennichi,Araneidae,Spiroplasma,0,Full16s,6,(Sheffer et al. 2020),2 Germany(1) Estonia(1),noPrevalence
+Marpiss magister,Salticidae,Wolbachia,1,Full16s,3,(Zhang et al. 2017),1 China,noPrevalence
+Marpiss magister,Salticidae,Spiroplasma,1,Full16s,3,(Zhang et al. 2017),1 China,noPrevalence
+Marpiss magister,Salticidae,Rickettsia,1,Full16s,3,(Zhang et al. 2017),1 China,noPrevalence
+Marpiss magister,Salticidae,Cardinium,1,Full16s,3,(Zhang et al. 2017),1 China,noPrevalence
+Pirata subpiraticus,Lycosidae,Wolbachia,1,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Pirata subpiraticus,Lycosidae,Spiroplasma,1,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Pirata subpiraticus,Lycosidae,Rickettsia,0,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Pirata subpiraticus,Lycosidae,Cardinium,0,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Nurscia albofasciata,Titanoecidae,Wolbachia,1,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Nurscia albofasciata,Titanoecidae,Spiroplasma,0,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Nurscia albofasciata,Titanoecidae,Rickettsia,1,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Nurscia albofasciata,Titanoecidae,Cardinium,0,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Dictis striatipes,Scytodidae,Wolbachia,0,Full16s,8,(Zhang et al. 2018),1 China,noPrevalence
+Dictis striatipes,Scytodidae,Spiroplasma,1,Full16s,8,(Zhang et al. 2018),1 China,noPrevalence
+Dictis striatipes,Scytodidae,Rickettsia,0,Full16s,8,(Zhang et al. 2018),1 China,noPrevalence
+Dictis striatipes,Scytodidae,Cardinium,0,Full16s,8,(Zhang et al. 2018),1 China,noPrevalence
+Agelena labyrinthica,Agelenidae,Wolbachia,0,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Agelena labyrinthica,Agelenidae,Spiroplasma,0,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Agelena labyrinthica,Agelenidae,Rickettsia,0,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Agelena labyrinthica,Agelenidae,Cardinium,0,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Agelena difficilis,Agelenidae,Wolbachia,0,Full16s,8,(Zhang et al. 2018),1 China,noPrevalence
+Agelena difficilis,Agelenidae,Spiroplasma,0,Full16s,8,(Zhang et al. 2018),1 China,noPrevalence
+Agelena difficilis,Agelenidae,Rickettsia,0,Full16s,8,(Zhang et al. 2018),1 China,noPrevalence
+Agelena difficilis,Agelenidae,Cardinium,1,Full16s,8,(Zhang et al. 2018),1 China,noPrevalence
+Artema atlanta,Pholcidae,Wolbachia,1,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Artema atlanta,Pholcidae,Spiroplasma,0,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Artema atlanta,Pholcidae,Rickettsia,1,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Artema atlanta,Pholcidae,Cardinium,0,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Ummeliata insecticeps,Linyphiidae,Wolbachia,1,Full16s,8,(Zhang et al. 2018),1 China,noPrevalence
+Ummeliata insecticeps,Linyphiidae,Spiroplasma,1,Full16s,8,(Zhang et al. 2018),1 China,noPrevalence
+Ummeliata insecticeps,Linyphiidae,Rickettsia,1,Full16s,8,(Zhang et al. 2018),1 China,noPrevalence
+Ummeliata insecticeps,Linyphiidae,Cardinium,1,Full16s,8,(Zhang et al. 2018),1 China,noPrevalence
+Hylyphantes graminicola,Linyphiidae,Wolbachia,1,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Hylyphantes graminicola,Linyphiidae,Spiroplasma,0,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Hylyphantes graminicola,Linyphiidae,Rickettsia,1,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Hylyphantes graminicola,Linyphiidae,Cardinium,1,Full16s,10,(Zhang et al. 2018),1 China,noPrevalence
+Pardosa laura,Lycosidae,Wolbachia,0,Full16s,6,(Hu et al. 2019),1 China,noPrevalence
+Pardosa laura,Lycosidae,Spiroplasma,0,Full16s,6,(Hu et al. 2019),1 China,noPrevalence
+Pardosa laura,Lycosidae,Rickettsia,0,Full16s,6,(Hu et al. 2019),1 China,noPrevalence
+Pardosa laura,Lycosidae,Cardinium,0,Full16s,6,(Hu et al. 2019),1 China,noPrevalence
+Pardosa astrigera,Lycosidae,Wolbachia,0,Full16s,6,(Hu et al. 2019),1 China,noPrevalence
+Pardosa astrigera,Lycosidae,Spiroplasma,0,Full16s,6,(Hu et al. 2019),1 China,noPrevalence
+Pardosa astrigera,Lycosidae,Rickettsia,0,Full16s,6,(Hu et al. 2019),1 China,noPrevalence
+Pardosa astrigera,Lycosidae,Cardinium,0,Full16s,6,(Hu et al. 2019),1 China,noPrevalence
+Nurscia albofasciata,Titanoecidae,Wolbachia,1,Full16s,6,(Hu et al. 2019),1 China,noPrevalence
+Nurscia albofasciata,Titanoecidae,Spiroplasma,0,Full16s,6,(Hu et al. 2019),1 China,noPrevalence
+Nurscia albofasciata,Titanoecidae,Rickettsia,0,Full16s,6,(Hu et al. 2019),1 China,noPrevalence
+Nurscia albofasciata,Titanoecidae,Cardinium,0,Full16s,6,(Hu et al. 2019),1 China,noPrevalence
+Stegodyphus dumicola,Eresidae,Wolbachia,0,Full16s,3,(Vanthournout et al. 2018),NA,Small dataset
+Stegodyphus dumicola,Eresidae,Spiroplasma,0,Full16s,3,(Vanthournout et al. 2018),NA,Small dataset
+Stegodyphus dumicola,Eresidae,Rickettsia,0,Full16s,3,(Vanthournout et al. 2018),NA,Small dataset
+Stegodyphus dumicola,Eresidae,Cardinium,0,Full16s,3,(Vanthournout et al. 2018),NA,Small dataset
+Stegodyphus mimosarum,Eresidae,Wolbachia,0,Full16s,3,(Vanthournout et al. 2018),NA,Small dataset
+Stegodyphus mimosarum,Eresidae,Spiroplasma,0,Full16s,3,(Vanthournout et al. 2018),NA,Small dataset
+Stegodyphus mimosarum,Eresidae,Rickettsia,0,Full16s,3,(Vanthournout et al. 2018),NA,Small dataset
+Stegodyphus mimosarum,Eresidae,Cardinium,0,Full16s,3,(Vanthournout et al. 2018),NA,Small dataset
+Oedothorax gibbosus,Linyphiidae,Wolbachia,1,Full16s,20,(Vanthournout and Hendrickx 2015),2 Belgium(2),noPrevalence
+Oedothorax gibbosus,Linyphiidae,Rickettsia,1,Full16s,20,(Vanthournout and Hendrickx 2015),2 Belgium(2),noPrevalence
+Oedothorax gibbosus,Linyphiidae,Cardinium,1,Full16s,20,(Vanthournout and Hendrickx 2015),2 Belgium(2),noPrevalence
+Stegodyphus dumicola,Eresidae,Wolbachia,0.02,Full16s,58,Paper II,5 SouthAfrica(5),NA
+Stegodyphus dumicola,Eresidae,Spiroplasma,0.05,Full16s,58,Paper II,5 SouthAfrica(5),NA
+Stegodyphus dumicola,Eresidae,Rickettsia,0.09,Full16s,58,Paper II,5 SouthAfrica(5),NA
+Stegodyphus dumicola,Eresidae,Cardinium,0,Full16s,58,Paper II,5 SouthAfrica(5),NA
+Stegodyphus mimosarum,Eresidae,Wolbachia,0,Full16s,60,Paper II,5 SouthAfrica(2) Madacascar(3),NA
+Stegodyphus mimosarum,Eresidae,Spiroplasma,0,Full16s,60,Paper II,5 SouthAfrica(2) Madacascar(3),NA
+Stegodyphus mimosarum,Eresidae,Rickettsia,0,Full16s,60,Paper II,5 SouthAfrica(2) Madacascar(3),NA
+Stegodyphus mimosarum,Eresidae,Cardinium,0,Full16s,60,Paper II,5 SouthAfrica(2) Madacascar(3),NA
+Stegodyphus sarasinorum,Eresidae,Wolbachia,0,Full16s,98,Paper II,8 India(7) SriLanka(1),NA
+Stegodyphus sarasinorum,Eresidae,Spiroplasma,0.01,Full16s,98,Paper II,8 India(7) SriLanka(1),NA
+Stegodyphus sarasinorum,Eresidae,Rickettsia,0.01,Full16s,98,Paper II,8 India(7) SriLanka(1),NA
+Stegodyphus sarasinorum,Eresidae,Cardinium,0,Full16s,98,Paper II,8 India(7) SriLanka(1),NA
+Stegodyphus dumicola,Eresidae,Wolbachia,0,Full16s,569,Paper III,6 Namibia(5) Botswana(1),NA
+Stegodyphus dumicola,Eresidae,Spiroplasma,0.14,Full16s,569,Paper III,6 Namibia(5) Botswana(1),NA
+Stegodyphus dumicola,Eresidae,Rickettsia,0.01,Full16s,569,Paper III,6 Namibia(5) Botswana(1),NA
+Stegodyphus dumicola,Eresidae,Cardinium,0,Full16s,569,Paper III,6 Namibia(5) Botswana(1),NA
